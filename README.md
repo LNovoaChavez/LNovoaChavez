@@ -1,6 +1,6 @@
 # Hi, I'm Luz Novoa 👋💻
 
-![Banner](./)
+![Banner](./bannerLN.png)
 
 ---
 
