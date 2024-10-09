@@ -1,6 +1,6 @@
-# 🌸 Luz Novoa Chávez - Frontend Developer 🌸
+# 🌸 Luz Novoa Chávez - FullStack Developer 🌸
 
-¡Hola a todos! Soy Luz una apasionada **Frontend Developer** con experiencia en el desarrollo de interfaces intuitivas y atractivas. Me encanta trabajar con tecnologías modernas para crear soluciones estéticas y funcionales. 🌟
+¡Hola a todos! Soy Luz una apasionada **FullStack Developer** con experiencia en el desarrollo de interfaces intuitivas y atractivas. Me encanta trabajar con tecnologías modernas para crear soluciones estéticas y funcionales. 🌟
 
 ![Banner](./bannerLN.png)
 
@@ -28,7 +28,7 @@ Si quieres conectar o colaborar en algún proyecto, ¡no dudes en contactarme! �
 
 ## 🌟 Sobre mí
 
-Soy una desarrolladora con formación en **Desarrollo Web** y **Licenciatura en Economía**. Mi enfoque es crear soluciones frontend que sean no solo visualmente atractivas, sino también altamente funcionales y responsivas. Me encanta aprender nuevas tecnologías y aplicarlas en proyectos desafiantes. 🚀
+Soy una desarrolladora con formación en **Desarrollo Web** y **Licenciatura en Economía**. Mi enfoque es crear soluciones que sean no solo visualmente atractivas, sino también altamente funcionales y responsivas. Me encanta aprender nuevas tecnologías y aplicarlas en proyectos desafiantes. 🚀
 
 Algunas de mis habilidades clave incluyen:
 
